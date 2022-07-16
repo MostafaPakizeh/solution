@@ -1,2 +1,2 @@
 # solution
-my second try on build and design a template with (still not responsive...)
+A simple template project using HTML , CSS , Sass ( Not Responsive)
